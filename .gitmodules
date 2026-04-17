@@ -1,0 +1,6 @@
+[submodule "paperclip"]
+	path = paperclip
+	url = https://github.com/mkvinicius/paperclip
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/mkvinicius/hermes-agent
